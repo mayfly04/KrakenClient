@@ -1,6 +1,6 @@
 # KrakenClient
 
-I have created a spring boot application which starts by running main class KrakenClientApplication.class file. Everything is embedded into it, Using a application.properties to load security and few other things into application. Application run the requirements, process the site outages data and then shut down automatically.
+I have created a spring boot application which starts by running main class KrakenClientApplication.class file. Everything is embedded into it, Using a application.properties to load security header key and few other things into application. Application run the requirements, process the site outages data and then shut down automatically.
 
 It is Maven project, should self check out all the libraries and work out of the box. Logging on the console so guide what is happening on the applications
 
